@@ -10,7 +10,7 @@ public class AddingMachine {
   }
   
   public int getTotal () {
-    return total;
+    return 0;
   }
   
   public void add (int value) {
